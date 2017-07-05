@@ -1,0 +1,21 @@
+[savedsearches/403_by_clientip]
+access = read : [ * ]
+export = none
+owner = admin
+version = 6.5.4
+modtime = 1498126351.799816000
+
+[savedsearches/Splunk%20Web%20Login%20Attempts]
+owner = admin
+version = 6.5.4
+modtime = 1497974988.948649000
+
+[props/second]
+owner = admin
+version = 6.5.4
+modtime = 1498240094.376014000
+
+[props/sec]
+owner = admin
+version = 6.5.4
+modtime = 1498240294.544483000
