@@ -3,5 +3,3 @@ require(["jquery", "splunkjs/mvc", "splunkjs/mvc/simplexml/ready!"], function($,
     headerView.settings.set("appbar", false);
     headerView.render();
 });
-
-/**/
