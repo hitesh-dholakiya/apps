@@ -13,3 +13,8 @@
     font-size: 14px;
     -moz-box-shadow: none;
 }
+
+.SingleValueHolder {
+    background-image: none;
+    -moz-box-shadow: none;
+}
