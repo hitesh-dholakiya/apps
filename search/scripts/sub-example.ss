@@ -10,4 +10,3 @@ for result in results:
     y = search('sender=* user="%s"| table sender | dedup sender' % result.user)
     output(y)
     break
-######################
